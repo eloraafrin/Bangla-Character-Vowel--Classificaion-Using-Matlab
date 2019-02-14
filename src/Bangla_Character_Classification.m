@@ -18,7 +18,7 @@ clc
 % nodes in each hidden layer, the number of training epochs, the number of
 % training data in each mini batch, and the learning rate.
 
-nh = [30];                                                      % one hidden layer with 40 nodes
+nh = [40];                                                      % one hidden layer with 40 nodes
 epoch = 15;                                                      % training epochs
 mini_batch_size = 10;                                           % mini batch size
 eta = 3.0;                                                      % learning rate
